@@ -1,36 +1,41 @@
-WebCreative
+# 💻 WebCreative Project
 
-Welcome to WebCreative, a dedicated space for showcasing the first steps of my front-end development journey.
-This repository includes my early progress and achievements from the course.
+This repository contains everything I worked on during my first web development course.  
+It includes:
 
-📁 What's Included:
+- All the labs I completed (Lab 1 to Lab 5)  
+- The PROJECT  
+- Course certificates
 
-✅ Tasks 1 to 5
-
-🎯 Mini projects and practical exercises
-
-📝 Notes and learning takeaways
-
-
-This space helps me stay organized and track my learning path.
-Feel free to explore and leave your feedback! 🙌
-
+This repository is to keep all my progress and achievements in one organized place.  
+You're welcome to explore it, and any feedback is appreciated! 🌟
 
 ---
 
-ويب كرياتيف
+## 🌐 Live Preview Links
 
-أهلاً بيك في WebCreative، ده مكان مخصص لعرض أول خطواتي في مجال تطوير الواجهة الأمامية (Front-End).
-الريبوزيتوري ده بيضم بدايتي ومجموعة من المهام اللي اشتغلت عليها في الكورس.
+Here are links to view the websites I built during the course:
 
-📁 المحتويات:
+- 🧪 Lab 1 ➤ [View Lab 1](https://sarakamel106.github.io/WebCreative/lab1/)
+- 🎨 Lab 2 ➤ [View Lab 2](https://sarakamel106.github.io/WebCreative/lab2/)
+- 🧩 Lab 3 ➤ [View Lab 3](https://sarakamel106.github.io/WebCreative/lab3/)
+- 📐 Lab 4 ➤ [View Lab 4](https://sarakamel106.github.io/WebCreative/lab4/)
+- 📱 Lab 5 ➤ [View Lab 5](https://sarakamel106.github.io/WebCreative/lab5/)
+- 🌟 PROJECT ➤ [View PROJECT](https://sarakamel106.github.io/WebCreative/project/)
 
-✅ المهام من 1 إلى 5
+---
 
-🎯 تطبيقات بسيطة وتمارين عملية
+### 📌 بالعربي:
 
-📝 ملاحظات واستفادات من التعلم
+ده المشروع الكامل ليا في أول كورس تعلمته في تطوير المواقع.  
+بيحتوي على كل الشغل اللي عملته من Lab 1 لحد Lab 5، و الـ PROJECT، وشهادات الكورس.  
+الموقع منظم علشان أتابع تطوري، وأي حد يقدر يشوف شغلي.
 
+وتحت هتلاقوا لينكات للمواقع اللي عملتها:
 
-المكان ده بيساعدني أتابع تقدمي وأخلي شغلي منظم في مكان واحد.
-اتفضل شوف الشغل ولو عندك أي ملاحظة، هكون مبسوطة أسمعها 🙌
+- 🧪 [معاينة Lab 1](https://sarakamel106.github.io/WebCreative/lab1/)
+- 🎨 [معاينة Lab 2](https://sarakamel106.github.io/WebCreative/lab2/)
+- 🧩 [معاينة Lab 3](https://sarakamel106.github.io/WebCreative/lab3/)
+- 📐 [معاينة Lab 4](https://sarakamel106.github.io/WebCreative/lab4/)
+- 📱 [معاينة Lab 5](https://sarakamel106.github.io/WebCreative/lab5/)
+- 🌟 [معاينة الـ PROJECT](https://sarakamel106.github.io/WebCreative/project/)
