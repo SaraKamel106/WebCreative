@@ -21,7 +21,10 @@ Here are links to view the websites I built during the course:
 - 🧩 Lab 3 ➤ [View Lab 3](https://sarakamel106.github.io/WebCreative/lab3/)
 - 📐 Lab 4 ➤ [View Lab 4](https://sarakamel106.github.io/WebCreative/lab4/)
 - 📱 Lab 5 ➤ [View Lab 5](https://sarakamel106.github.io/WebCreative/lab5/)
-- 🌟 PROJECT ➤ [View PROJECT](https://sarakamel106.github.io/WebCreative/project/)
+- 🌟 PROJECT ➤ [View PROJECT](https://sarakamel106.github.io/WebCreative/PROJECT/)
+- 🧾 Certificate 1
+
+🧾 Certificate 2
 
 ---
 
@@ -38,4 +41,7 @@ Here are links to view the websites I built during the course:
 - 🧩 [معاينة Lab 3](https://sarakamel106.github.io/WebCreative/lab3/)
 - 📐 [معاينة Lab 4](https://sarakamel106.github.io/WebCreative/lab4/)
 - 📱 [معاينة Lab 5](https://sarakamel106.github.io/WebCreative/lab5/)
-- 🌟 [معاينة الـ PROJECT](https://sarakamel106.github.io/WebCreative/project/)
+- 🌟 [معاينة الPROJECT](https://sarakamel106.github.io/WebCreative/PROJECT/)
+- 🧾 Certificate 1
+
+🧾 Certificate 2
