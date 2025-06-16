@@ -24,6 +24,15 @@ Here are links to view the websites I built during the course:
 - 🌟 PROJECT ➤ [View PROJECT](https://sarakamel106.github.io/WebCreative/PROJECT/)
 - 📄 [Certificate 1](./Certificates/81ad7a00-d7d2-432a-b6ab-506878111df4.pdf)  
 📄 [Certificate 2](./Certificates/DOC-20250616-WA0037.pdf)
+## 🔍 Project Preview
+
+Here are some screenshots of the project:
+
+![Screenshot 1](https://github.com/SaraKamel106/WebCreative/blob/main/Screenshot%202025-06-16%20215526.png?raw=true)
+![Screenshot 2](https://github.com/SaraKamel106/WebCreative/blob/main/Screenshot%202025-06-16%20215546.png?raw=true)
+![Screenshot 3](https://github.com/SaraKamel106/WebCreative/blob/main/Screenshot%202025-06-16%20215613.png?raw=true)
+
+---
 
 ---
 
@@ -43,3 +52,12 @@ Here are links to view the websites I built during the course:
 - 🌟 [معاينة الPROJECT](https://sarakamel106.github.io/WebCreative/PROJECT/)
 - 📄 [الشهاده 1](./Certificates/81ad7a00-d7d2-432a-b6ab-506878111df4.pdf)  
 📄 [الشهاده  2](./Certificates/DOC-20250616-WA0037.pdf)
+## 🔍 معاينة المشروع
+
+إليكم بعض لقطات الشاشة للمشروع:
+
+![لقطة الشاشة ١](https://github.com/SaraKamel106/WebCreative/blob/main/Screenshot%202025-06-16%20215526.png?raw=true)
+![لقطة الشاشة ٢](https://github.com/SaraKamel106/WebCreative/blob/main/Screenshot%202025-06-16%20215546.png?raw=true)
+![لقطة الشاشة  ٣](https://github.com/SaraKamel106/WebCreative/blob/main/Screenshot%202025-06-16%20215613.png?raw=true)
+
+---
